@@ -1,1 +1,2 @@
-# hello-world
+I am Keerthana Thangavel.I am from Erode ,TamilNadu.I am currently pursuing Bachlor Degree of Computer Science and Engineering at Velalar College of Engineering and Technology.I have a skill in front end developement,wordpress developement,figma,and more interested in A rtificial Intelligent and Data Science. I have good communication skills and interseted to work with more recent technology.My strength is I have adopt myself for the new environment easily.i have a skill in programming language like python.
+
